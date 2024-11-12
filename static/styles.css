@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+img {
+  width: 80%;
+  height: auto;
+}
+
+div {
+  margin-top: 20px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-around;
+}
